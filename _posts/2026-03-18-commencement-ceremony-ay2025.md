@@ -10,7 +10,7 @@ date:   2026-03-18 00:00:00 +0900
 ## 令和7年度 ソーシャル・データサイエンス研究科学位記授与式
 今年度は，欅研究室 2 期生として Wang さん，岡部さん，宍戸さん（副指導）の 3 名が修了されました．<br />
 
-Wang さん（修論タイトル： "The Impact of LLM-Generated Paraphrases on Topic Modeling and Classification of Short Texts"）はデータ拡張による短文テキストの分類性能改善に取り組みました．<br />
+Wang さん（修論タイトル： [The Impact of LLM-Generated Paraphrases on Topic Modeling and Classification of Short Texts](/keyaki-lab/thesis/#ay2025-wang)）はデータ拡張による短文テキストの分類性能改善に取り組みました．<br />
 
 岡部さん（修論タイトル：[文章生成タスクを用いたLLMの社会的バイアス検出手法の検討](/keyaki-lab/thesis/#ay2025-okabe)）は，採用決定メール生成タスクを通して，社会的バイアスを検出に取り組みました．<br />
 
