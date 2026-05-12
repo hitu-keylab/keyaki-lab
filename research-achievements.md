@@ -35,6 +35,10 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #### 招待講演
 - 欅 惇志，NLP2026 ワークショップ「[未来言語処理ワークショップ](https://sites.google.com/view/mirai-nlp-2026/home){:target="_blank"}」, "経済・金融指標の予測と未来情報の検証", 2026.3.13
 
+#### 共有タスク参加
+
+- TREC 2025, RAG Track, ranked 1st in the Retrieval Task and 3rd in the RAG Task (team: UTokyo), 2026
+
 ### 2025 年
 #### 国際会議・国際ワークショップ（査読あり）
 - Saneyuki Okabe, Taisei Enomoto, Mamoru Komachi, Atsushi Keyaki: ``Investigating the Impact of Japanese Names and Japanese Prompts on Social Bias in Hiring Decisions Using LLMs'', proceedings of the 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Macau and Online, December, 2025.
