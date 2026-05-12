@@ -27,7 +27,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - [新メンバー](/keyaki-lab/member)として M1 が 1 名，B3 が 5 名欅研究室に配属されました．(2026.4.1)
 - M1 の[解良 智紀](/keyaki-lab/member/ay2025-kera){:target="_blank"} さんが[一橋大学SPRING事業](https://www.hit-u.ac.jp/shushoku/spring/){:target="_blank"}の選抜学生に予約採用されました．(2026.3.25)
 - 教員の[欅](https://www.keyakkie.com/){:target="_blank"}が[NLP2026](https://anlp.jp/nlp2026/){:target="_blank"}のワークショップ「[未来言語処理ワークショップ](https://sites.google.com/view/mirai-nlp-2026/home){:target="_blank"}」にて招待講演を行いました．(2026.3.13)
-- 教員の[欅](https://www.keyakkie.com/){:target="_blank"}が国際的な情報検索評価ワークショップ [TREC 2025 RAG Track](https://trec-rag.github.io/trec25/){:target="_blank"} において，Retrieval Task で1位，RAG Task で3位を達成しました（[報告](https://www.sds.hit-u.ac.jp/4165/){:target="_blank"}）．(2026.3.10)
+- 教員の[欅](https://www.keyakkie.com/){:target="_blank"}が国際的な情報検索評価ワークショップ [TREC 2025 RAG Track](https://trec-rag.github.io/trec25/){:target="_blank"} において，Retrieval Task で1位，RAG Task で3位を達成しました[[報告](https://www.sds.hit-u.ac.jp/4165/){:target="_blank"}]．(2026.3.10)
 - [NLP2026](https://anlp.jp/nlp2026/){:target="_blank"}にて M2 の宍戸 直樹さんが[委員特別賞](https://anlp.jp/nlp2026/award.html){:target="_blank"}を受賞しました．(2026.3.12)
 - M1 の[解良 智紀](/keyaki-lab/member/ay2025-kera){:target="_blank"} さんの研究の成果が説明責任と誠実性のための情報検索に関する国際ワークショップ [IRAI 2026](https://nlpfin.github.io/sites/ECIR2026.html){:target="_blank"}に採択されました．(2026.2.24)
 - B3 の[政野 美和](/keyaki-lab/member/ay2025-masano){:target="_blank"} さんの研究の成果が自然言語処理分野の国際会議 [LREC 2026](https://lrec2026.info/){:target="_blank"}に採択されました．(2026.2.13)
