@@ -23,6 +23,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 教員（欅）に関しては[個人サイト](https://www.keyakkie.com/%E7%95%A5%E6%AD%B4%E6%B4%BB%E5%8B%95){:target="_blank"}を参照ください．
 
 ## News
+- 修了生の[宍戸さん](/keyaki-lab/thesis/#ay2025-shishido)の研究の成果が経済・金融における計算・データサイエンスに関する国際会議 [CDEF2026](https://iaiai.org/conference/aai2026/conferences/cdef-2026/){:target="_blank"} に採択されました．(2026.5.20)
 - B4 の[政野 美和](/keyaki-lab/member/ay2025-masano){:target="_blank"} さんの研究の成果が自然言語処理分野の国際ワークショップ [ACL 2026 SRW](https://acl2026-srw.github.io/){:target="_blank"}に採択されました．(2026.4.25)
 - [新メンバー](/keyaki-lab/member)として M1 が 1 名，B3 が 5 名欅研究室に配属されました．(2026.4.1)
 - M1 の[解良 智紀](/keyaki-lab/member/ay2025-kera){:target="_blank"} さんが[一橋大学SPRING事業](https://www.hit-u.ac.jp/shushoku/spring/){:target="_blank"}の選抜学生に予約採用されました．(2026.3.25)

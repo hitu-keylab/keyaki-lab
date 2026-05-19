@@ -10,18 +10,19 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 ---
 ### 2026 年
 #### 国際会議・国際ワークショップ（査読あり）
-- Miwa Masano, Hirokazu Kiyomaru, Atsushi Keyaki, Kaito Horio, Rei Minamoto, Ribeka Keyaki, Kouta Nakayama, Hideyuki Tachibana, and Daisuke Kawahara: ``Constructing a Japanese Verdict Prediction Dataset for Fact-Checking of LLM-Generated Texts'', proceedings of the ACL 2026 Student Research Workshop (SRW), 2026.
-- Miwa Masano, Ribeka Keyaki, Atsushi Keyaki, Rei Minamoto, Kaito Horio, Hirokazu Kiyomaru, Kouta Nakayama, Hideyuki Tachibana, and Daisuke Kawahara: ``Constructing a Japanese Claim Decomposition Dataset for Fact-Checking of LLM-Generated Texts'', proceedings of the 15th biennial Language Resources and Evaluation Conference (LREC 2026), 2026. **<span style="color:red;">Selected for oral presentation</span>**
-- Tomoki Kera, Yohei Seki, Yuriko Nakao, Hiroya Takamura, and Atsushi Keyaki: ``Analysis of LLM-Based Annotation for ESG Compliance Checking'', proceedings of the 1st Workshop on Information Retrieval for Accountability and Integrity (IRAI 2026), co-located with the European Conference on Information Retrieval (ECIR 2026), 2026.
-- Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), 2026.
+- Naoki Shishido, Toshiaki Watanabe, Mitsuo Yoshida, and Atsushi Keyaki: ``Macroeconomic Forecasting with Economy Watchers Survey Comments: An Embedding-Based Factor Approach'', proceedings of 4rd International Conference on Computational and Data Sciences in Economics and Finance (CDEF 2026), July, 2026.
+- Miwa Masano, Hirokazu Kiyomaru, Atsushi Keyaki, Kaito Horio, Rei Minamoto, Ribeka Keyaki, Kouta Nakayama, Hideyuki Tachibana, and Daisuke Kawahara: ``Constructing a Japanese Verdict Prediction Dataset for Fact-Checking of LLM-Generated Texts'', proceedings of the ACL 2026 Student Research Workshop (SRW), July, 2026.
+- Miwa Masano, Ribeka Keyaki, Atsushi Keyaki, Rei Minamoto, Kaito Horio, Hirokazu Kiyomaru, Kouta Nakayama, Hideyuki Tachibana, and Daisuke Kawahara: ``Constructing a Japanese Claim Decomposition Dataset for Fact-Checking of LLM-Generated Texts'', proceedings of the 15th biennial Language Resources and Evaluation Conference (LREC 2026), May, 2026. **<span style="color:red;">Selected for oral presentation</span>**
+- Tomoki Kera, Yohei Seki, Yuriko Nakao, Hiroya Takamura, and Atsushi Keyaki: ``Analysis of LLM-Based Annotation for ESG Compliance Checking'', proceedings of the 1st Workshop on Information Retrieval for Accountability and Integrity (IRAI 2026), co-located with the European Conference on Information Retrieval (ECIR 2026), April, 2026.
+- Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), March, 2026.
 
 #### 国際会議・国際ワークショップ（査読なし）
-- Sho Fukada, Atsushi Keyaki, Yusuke Matsui: ``UTokyo-HitU at TREC 2025 RAG Track: HyDE-Enhanced Sparse-Dense Retrieval Fusion with LLM Reranking'', Proceedings of the 33rd Text REtrieval Conference (TREC 2025), 2026.
+- Sho Fukada, Atsushi Keyaki, Yusuke Matsui: ``UTokyo-HitU at TREC 2025 RAG Track: HyDE-Enhanced Sparse-Dense Retrieval Fusion with LLM Reranking'', Proceedings of the 33rd Text REtrieval Conference (TREC 2025), January, 2026.
 
 #### 国内会議・研究会 (査読なし)
-- 引野 晴貴，解良 智紀，Kristiina Jokinen，Sven Kirsch，陳 重吉，欅 惇志: ``事前に定義した複雑な学習シナリオの遵守を実現する教育用対話システムのマルチエージェント設計の提案'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026.
-- 春名 恵吏也，宍戸 直樹，欅 惇志: ``経済ドメインにおける 3 値センチメントに基づく埋め込みモデルの検討'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026.
-- 川﨑 直弥，渡部 敏明，欅 惇志，小町 守: ``教師あり次元削減を用いた事前学習済み言語モデルによる金融リスク予測'', 第36回 人工知能学会 金融情報学研究会 (SIG-FIN), 2026.
+- 引野 晴貴，解良 智紀，Kristiina Jokinen，Sven Kirsch，陳 重吉，欅 惇志: ``事前に定義した複雑な学習シナリオの遵守を実現する教育用対話システムのマルチエージェント設計の提案'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026年6月.
+- 春名 恵吏也，宍戸 直樹，欅 惇志: ``経済ドメインにおける 3 値センチメントに基づく埋め込みモデルの検討'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026年6月.
+- 川﨑 直弥，渡部 敏明，欅 惇志，小町 守: ``教師あり次元削減を用いた事前学習済み言語モデルによる金融リスク予測'', 第36回 人工知能学会 金融情報学研究会 (SIG-FIN), 2026年3月.
 - 岡部 真幸，榎本 大晟，小町 守，欅 惇志: ``採用決定タスクを用いたLLMの年齢バイアス検出'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 - 宍戸 直樹，渡部 敏明，吉田 光男，欅 惇志: ``街角コメントは経済変動を予測するか？- 埋め込み表現を活用したアプローチの提案とその応用 -'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月. **<span style="color:red;">委員特別賞受賞</span>**
 - 解良 智紀，関 洋平，中尾 悠利子，高村 大也，欅 惇志: ``SASB スタンダードに準拠したコンプライアンスチェックのための ESG 日本語データセット構築'', 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
