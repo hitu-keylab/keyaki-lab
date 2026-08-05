@@ -9,7 +9,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #show_sidebar: true
 ---
 ### 2026 年
-#### 論文誌（査読あり）
+#### 学術論文誌（査読あり）
 - 岡部 真幸, 榎本 大晟, 小町 守, 欅 惇志：``採用決定タスクを用いた LLM の社会的バイアス検出における検証対象の拡張'', 自然言語処理, Vol. 33, No. 4, 2026（掲載予定）
 
 #### 国際会議・国際ワークショップ（査読あり）
@@ -81,7 +81,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - 早田 大紀，太刀岡 勇気，小町 守，欅 惇志: ``質問応答における不正解応答フィルタリングによる Fusion-in-LLM の改善'', 第20回 YANS シンポジウム, 2025. **<span style="color:red;">株式会社マネーフォワード賞受賞</span>**
 
 ### 2024 年
-#### 論文誌（査読あり）
+#### 学術論文誌（査読あり）
 - Ko Senoo, Yohei Seki, Wakako Kashino, Atsushi Keyaki, and Noriko Kando: ``Stance Prediction with a Relevance Attribute to Political Issues in Comparing the Opinions of Citizens and City Councilors'', International Journal on Digital Libraries (IJDL), Vol. 25, Iss: 1, 2024, https://doi.org/10.1007/s00799-024-00396-3. [[link](https://link.springer.com/epdf/10.1007/s00799-024-00396-3?sharing_token=WqQ1-UpnhFJTuCDDvs5fMfe4RwlQNchNByi7wbcMAY5-ilQdfsaIQ6cVtDrcPWOLAKNwtl4hgc1EcJzvfKkria7tMCEYEm3zGNrudf9pz00vLsuj3ILmggGzzZqJmutAJYINx-t9Ji3swUPmI6S-m0YNsR5AyuzTxHi2anyT_aU%3D){:target="_blank"}]
 
 #### 国際会議・国際ワークショップ（査読あり）
@@ -96,7 +96,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - 中島 秀太, 欅 惇志, 渡部 敏明, 小町 守: ``掲示板テキストから得られるセンチメントを利用した日経平均株価ボラティリティ予測'', 第19回 YANS シンポジウム, 2024.
 
 ### 2023 年
-#### 論文誌（査読あり）
+#### 学術論文誌（査読あり）
 - 石田哲也，関洋平，欅 惇志，柏野和佳子，神門典子: ``都市を横断した市民意見抽出の評価'', 自然言語処理, 30 巻, 2 号, 2023. [[pdf](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_586/_pdf/-char/ja){:target="_blank"}]
 
 #### 国際会議 (査読なし)
