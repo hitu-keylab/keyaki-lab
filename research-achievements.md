@@ -9,6 +9,9 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #show_sidebar: true
 ---
 ### 2026 年
+#### 論文誌（査読あり）
+- 岡部 真幸, 榎本 大晟, 小町 守, 欅 惇志：``採用決定タスクを用いた LLM の社会的バイアス検出における検証対象の拡張'', 自然言語処理, Vol. 33, No. 4, 2026（掲載予定）
+
 #### 国際会議・国際ワークショップ（査読あり）
 - Naoki Shishido, Toshiaki Watanabe, Mitsuo Yoshida, and Atsushi Keyaki: ``Macroeconomic Forecasting with Economy Watchers Survey Comments: An Embedding-Based Factor Approach'', proceedings of 4rd International Conference on Computational and Data Sciences in Economics and Finance (CDEF 2026), July, 2026.
 - Miwa Masano, Hirokazu Kiyomaru, Atsushi Keyaki, Kaito Horio, Rei Minamoto, Ribeka Keyaki, Kouta Nakayama, Hideyuki Tachibana, and Daisuke Kawahara: ``Constructing a Japanese Verdict Prediction Dataset for Fact-Checking of LLM-Generated Texts'', proceedings of the ACL 2026 Student Research Workshop (SRW), July, 2026.
