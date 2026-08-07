@@ -23,7 +23,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - Sho Fukada, Atsushi Keyaki, Yusuke Matsui: ``UTokyo-HitU at TREC 2025 RAG Track: HyDE-Enhanced Sparse-Dense Retrieval Fusion with LLM Reranking'', Proceedings of the 33rd Text REtrieval Conference (TREC 2025), January, 2026.
 
 #### 国内会議・研究会 (査読なし)
-- 深田 翔，欅 惇志，松井 勇佑: ``HyDE Vector Mix: クエリと仮想回答の重み付き混合による高精度な密ベクトル検索'', 第29回 画像の認識・理解シンポジウム (MIRU2026), 2026. **<span style="color:red;">オーラル発表に選出</span>**
+- 深田 翔，欅 惇志，松井 勇佑: ``HyDE Vector Mix: クエリと仮想回答の重み付き混合による高精度な密ベクトル検索'', 第29回 画像の認識・理解シンポジウム (MIRU2026), 2026. **<span style="color:red;">学生奨励賞受賞</span>**
 - 早田 大紀，太刀岡 勇気，小町 守，欅 惇志: ``投票型 RAG における信頼度推定に基づくフィルタリングと複数モデルによる解答候補統合'', 第268回自然言語処理研究発表会, 2026.
 - 日高 逸稀，木山 朔，小町 守，欅 惇志: ``LLM の内部表現を用いた学習不要なタスク条件付きユーザ埋め込み'', 第268回自然言語処理研究発表会, 2026.
 - 引野 晴貴，解良 智紀，Kristiina Jokinen，Sven Kirsch，陳 重吉，欅 惇志: ``事前に定義した複雑な学習シナリオの遵守を実現する教育用対話システムのマルチエージェント設計の提案'', 人工知能学会全国大会 (第40回) (JSAI 2026), 2026年6月.
