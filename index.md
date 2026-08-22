@@ -23,7 +23,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 教員（欅）に関しては[個人サイト](https://www.keyakkie.com/%E7%95%A5%E6%AD%B4%E6%B4%BB%E5%8B%95){:target="_blank"}を参照ください．
 
 ## News
-- 筑波大・NII らとの共同研究の成果が自然言語処理分野の難関国際会議 [EMMLP 2026](https://2026.emnlp.org/){:target="_blank"}に採択されました．(2026.8.21)
+- 筑波大・NII などとの共同研究の成果が自然言語処理分野の難関国際会議 [EMNLP 2026](https://2026.emnlp.org/){:target="_blank"}に採択されました．(2026.8.21)
 - [YANS2026](https://yans.anlp.jp/entry/yans2026){:target="_blank"}のハッカソンにて B4 の[政野 美和](/keyaki-lab/member/ay2025-masano)さんが ICL 部門 審査員特別賞，B3 の[北村 有彩](/keyaki-lab/member/ay2026-kitamura/)さんが OMD 部門 審査員特別賞を受賞しました．(2026.8.18)
 - 修了生の[岡部さん](/keyaki-lab/thesis/#ay2025-okabe)の研究の成果が言語処理学会論文誌「[自然言語処理](https://anlp.jp/guide/){:target="_blank"}」に採択されました．(2026.8.6)
 - 修了生の[宍戸さん](/keyaki-lab/thesis/#ay2025-shishido)の研究の成果が経済・金融における計算・データサイエンスに関する国際会議 [CDEF2026](https://iaiai.org/conference/aai2026/conferences/cdef-2026/){:target="_blank"} に採択されました．(2026.5.20)
