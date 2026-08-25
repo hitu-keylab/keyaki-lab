@@ -2,7 +2,7 @@
 layout: post
 title: Keyaki Lab's Web Site
 subtitle: 一橋大学 ソーシャル・データサイエンス研究科 欅研究室
-posttitle: JSAI2026 参加報告
+posttitle: 第一回山本・欅合同ゼミ実施報告
 author: 村田 圭翼，北村 有彩
 date:   2026-07-13 00:00:00 +0900
 #categories: jekyll update
