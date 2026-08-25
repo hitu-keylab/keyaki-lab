@@ -13,6 +13,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 	{% for post in site.posts %}
 		<li>
 			<a href="{{ post.url | relative_url }}">{{ post.posttitle }}</a>
+			（{{ post.author }}）
 			<span>{{ post.date | date: "%Y-%m-%d" }}</span>
 		</li>
 	{% endfor %}
