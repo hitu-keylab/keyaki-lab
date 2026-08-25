@@ -14,7 +14,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 		<li>
 			<a href="{{ post.url | relative_url }}">{{ post.posttitle }}</a>
 				: {{ post.author }}
-				- {{ post.date | date: "%Y-%m-%d" }}
+				{{ post.date | date: "%Y-%m-%d" }}
 		</li>
 	{% endfor %}
 </ul>
