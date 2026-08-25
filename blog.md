@@ -8,13 +8,25 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 #permalink: /event/
 #show_sidebar: true
 ---
+<style>
+.event-meta {
+  font-size: 0.8em;
+  color: #777;
+  margin-left: 0.4em;
+}
+</style>
+
 ## イベント一覧
 <ul>
 	{% for post in site.posts %}
 		<li>
 			<a href="{{ post.url | relative_url }}">{{ post.posttitle }}</a>
-			（{{ post.author }}）
-			<span>{{ post.date | date: "%Y-%m-%d" }}</span>
+			<span class="event-meta">
+				{% if post.author %}
+					: {{ post.author }}
+				% endif %}
+				- <span>{{ post.date | date: "%Y-%m-%d" }}
+			</span>
 		</li>
 	{% endfor %}
 </ul>
