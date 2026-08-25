@@ -24,7 +24,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 			<span class="event-meta">
 				{% if post.author %}
 					: {{ post.author }}
-				% endif %}
+				{% endif %}
 				- <span>{{ post.date | date: "%Y-%m-%d" }}
 			</span>
 		</li>
