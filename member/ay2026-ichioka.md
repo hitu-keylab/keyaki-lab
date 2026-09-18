@@ -15,11 +15,11 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 市岡 奨平
 
 ### 個人ページ
-[ポートフォリオ](https://soy-sorce.github.io/en/)
+[ポートフォリオ](https://soy-sorce.github.io/)
 
 ### 連絡先
 - 5124008k@g.hit-u.ac.jp（大学・研究関係）
-- ichi.shouhei44en [at] gmail.com（その他）
+- soysorce.work [at] gmail.com（その他）
 
 ### 所属・学年
 一橋大学ソーシャル・データサイエンス学部 欅研究室 3年
