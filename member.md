@@ -12,7 +12,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - [欅 惇志](https://www.keyakkie.com/){:target="_blank"}（准教授）
 
 ## 修士生
-- [解良 智紀](ay2025-kera) (M2) 一橋大学SPRING事業 2027年4月予約採用
+- [解良 智紀](ay2025-kera) (M2)
 - [日高 逸稀](ay2025-hidaka) (M2)
 - [山本 直生](ay2026-yamamoto) (M1)
 
