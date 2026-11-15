@@ -50,7 +50,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 
 #### 招待講演
 - 欅 惇志，NLP2026 ワークショップ「[未来言語処理ワークショップ](https://sites.google.com/view/mirai-nlp-2026/home){:target="_blank"}」, "経済・金融指標の予測と未来情報の検証", 2026.3.13
-- 欅 惇志，2026年度社会連携プログラム第9回医療経済短期集中コース(https://health-economics.hias.hit-u.ac.jp/program/){:target="_blank"}」, "生成AI・大規模言語モデルの特性・課題と専門知識の扱い方", 2026.11.15
+- 欅 惇志，[2026年度社会連携プログラム第9回医療経済短期集中コース](https://health-economics.hias.hit-u.ac.jp/program/){:target="_blank"}, "生成AI・大規模言語モデルの特性・課題と専門知識の扱い方", 2026.11.15
 
 #### 共有タスク参加
 
