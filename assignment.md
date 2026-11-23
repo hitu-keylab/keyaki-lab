@@ -39,7 +39,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 
 ## 研究室の運営方針
 対外発表を目指して研究活動に取り組んでいただきます．<br/>
-また，[欅研究室の指導方針](https://comet-gull-c9f.notion.site/1ca47f87e59c80c7bd9ac1b613d3a030?pvs=4){:target="_blank"} を公開しております．[Q&A](#qa) と併せてご参照ください．
+また，[欅研究室の指導方針](https://comet-gull-c9f.notion.site/1ca47f87e59c80c7bd9ac1b613d3a030?pvs=4){:target="_blank"} を公開します．[Q&A](#qa) と併せてご参照ください．
 
 ## 研究室の活動
 欅研究室では下記のイベントを中心に活動を行っています．
