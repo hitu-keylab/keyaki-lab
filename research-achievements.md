@@ -22,7 +22,8 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - Hikari Tanaka, Atsushi Keyaki, and Mamoru Komachi: ``Constructing a Dataset for Hallucination Detection in Japanese Summarization with Fine-grained Faithfulness Labels'', proceedings of the EACL 2026 Student Research Workshop (SRW), March, 2026.
 
 #### 国際会議・国際ワークショップ（査読なし）
-- Sho Fukada, Atsushi Keyaki, Yusuke Matsui: ``UTokyo-HitU at TREC 2025 RAG Track: HyDE-Enhanced Sparse-Dense Retrieval Fusion with LLM Reranking'', Proceedings of the 33rd Text REtrieval Conference (TREC 2025), January, 2026.
+- Miwa Masano, Shohei Ichioka, Tomoki Kera, and Atsushi Keyaki: ``hit-u at TREC 2026 RAG Track'', Proceedings of the 34th Text REtrieval Conference (TREC 2026), November, 2026.
+- Sho Fukada, Atsushi Keyaki, and Yusuke Matsui: ``UTokyo-HitU at TREC 2025 RAG Track: HyDE-Enhanced Sparse-Dense Retrieval Fusion with LLM Reranking'', Proceedings of the 33rd Text REtrieval Conference (TREC 2025), January, 2026.
 
 #### 国内会議・研究会 (査読なし)
 - 深田 翔，欅 惇志，松井 勇佑: ``HyDE Vector Mix: クエリと仮想回答の重み付き混合による高精度な密ベクトル検索'', 第29回 画像の認識・理解シンポジウム (MIRU2026), 2026. **<span style="color:red;">学生奨励賞受賞</span>**
