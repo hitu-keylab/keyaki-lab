@@ -50,8 +50,9 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 - 村田 圭翼，山田 寛章，欅 惇志: ``Feed-Forward Network への介入が長回答生成に与える影響'', 第21回言語処理若手シンポジウム (YANS2026), 2026.
 
 #### 招待講演
-- 欅 惇志，NLP2026 ワークショップ「[未来言語処理ワークショップ](https://sites.google.com/view/mirai-nlp-2026/home){:target="_blank"}」, "経済・金融指標の予測と未来情報の検証", 2026.3.13
+- 欅 惇志，[NAIST Granite/NAIST Granite-AI 学際的人材育成ワークショップ2026](https://www.naist.jp/event/2026/11/012011.html){:target="_blank"}, "そこに ``アイ'' はあるのかい?", 2026.11.20
 - 欅 惇志，[2026年度社会連携プログラム第9回医療経済短期集中コース](https://health-economics.hias.hit-u.ac.jp/program/){:target="_blank"}, "生成AI・大規模言語モデルの特性・課題と専門知識の扱い方", 2026.11.15
+- 欅 惇志，NLP2026 ワークショップ「[未来言語処理ワークショップ](https://sites.google.com/view/mirai-nlp-2026/home){:target="_blank"}」, "経済・金融指標の予測と未来情報の検証", 2026.3.13
 
 #### 共有タスク参加
 

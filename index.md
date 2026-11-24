@@ -23,6 +23,7 @@ subtitle: 一橋大学 ソーシャル・データサイエンス学部/研究�
 教員（欅）に関しては[個人サイト](https://www.keyakkie.com/%E7%95%A5%E6%AD%B4%E6%B4%BB%E5%8B%95){:target="_blank"}を参照ください．
 
 ## News
+- 教員の[欅](https://www.keyakkie.com/){:target="_blank"}が[NAIST Granite/NAIST Granite-AI 学際的人材育成ワークショップ2026](https://www.naist.jp/event/2026/11/012011.html){:target="_blank"}にて講演を行いました．(2026.11.20)
 - 教員の[欅](https://www.keyakkie.com/){:target="_blank"}が[2026年度社会連携プログラム第9回医療経済短期集中コース](https://health-economics.hias.hit-u.ac.jp/program/){:target="_blank"}にて講演を行いました．(2026.11.15)
 - B4 の[早田 大紀](/keyaki-lab/member/ay2025-hayata){:target="_blank"} さんの研究の成果が自然言語処理分野の国際ワークショップ [AACL-IJCNLP 2026 SRW](https://2026.aaclnet.org/calls/srw/){:target="_blank"}に採択されました．(2026.10.3)
 - 筑波大・NII などとの共同研究の成果が自然言語処理分野の国際会議 [EMNLP 2026](https://2026.emnlp.org/){:target="_blank"}に採択されました．(2026.8.21)
